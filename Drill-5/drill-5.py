@@ -64,6 +64,7 @@ x, y = KPU_WIDTH // 2, KPU_HEIGHT // 2
 cx,cy = KPU_WIDTH // 2, KPU_HEIGHT // 2
 frame = 0
 hide_cursor()
+#커밋횟수
 while working:
     clear_canvas()
     kpu_ground.draw(KPU_WIDTH // 2, KPU_HEIGHT // 2)
